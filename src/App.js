@@ -16,7 +16,9 @@ const router = createBrowserRouter([
   { path: '/calendario', element: <Calendario /> },
   { path: '/asistencia', element: <Asistencia /> },
   {path: '/informacion', element: <Informacion /> }
-]);
+], {
+  basename: 'agenda-soy-mas-deploy'
+});
 
 function App() {
   return <RouterProvider router={router} />;

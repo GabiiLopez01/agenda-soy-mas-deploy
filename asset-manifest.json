@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/agenda-soy-mas-deploy/static/css/main.89dd3168.css",
+    "main.js": "/agenda-soy-mas-deploy/static/js/main.7c33121c.js",
+    "static/media/Adlery.ttf": "/agenda-soy-mas-deploy/static/media/Adlery.3794db69593a478d1ff1.ttf",
+    "static/media/SeasonsLight.ttf": "/agenda-soy-mas-deploy/static/media/SeasonsLight.a7164dea6a70d4306f27.ttf",
+    "static/media/inicio.png": "/agenda-soy-mas-deploy/static/media/inicio.f0115d07b11307e5a353.png",
+    "static/media/logoSoymas.png": "/agenda-soy-mas-deploy/static/media/logoSoymas.6583fd17028cfc3a5089.png",
+    "static/media/perfil.png": "/agenda-soy-mas-deploy/static/media/perfil.2379a1466a7179a83ac0.png",
+    "static/media/login.png": "/agenda-soy-mas-deploy/static/media/login.d89398de5f6e44b83819.png",
+    "static/media/datos.png": "/agenda-soy-mas-deploy/static/media/datos.a05d03ca4b6b6aea18c2.png",
+    "index.html": "/agenda-soy-mas-deploy/index.html",
+    "main.89dd3168.css.map": "/agenda-soy-mas-deploy/static/css/main.89dd3168.css.map",
+    "main.7c33121c.js.map": "/agenda-soy-mas-deploy/static/js/main.7c33121c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89dd3168.css",
+    "static/js/main.7c33121c.js"
+  ]
+}
